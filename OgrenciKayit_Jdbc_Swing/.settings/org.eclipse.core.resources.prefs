@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//src/com/jdbc/database/OgretmenDAL.java=UTF-8
+encoding//src/com/jdbc/frontEnd/AcilanDerslerFE.java=UTF-8
+encoding//src/com/jdbc/frontEnd/AktifDonemBelirleFE.java=UTF-8
+encoding//src/com/jdbc/frontEnd/AnaPencereFE.java=UTF-8
+encoding//src/com/jdbc/frontEnd/BolumEkleFE.java=UTF-8
+encoding//src/com/jdbc/frontEnd/DersEkleFE.java=UTF-8
+encoding//src/com/jdbc/frontEnd/DonemEkleFE.java=UTF-8
+encoding//src/com/jdbc/frontEnd/OgrenciDersKaydiFE.java=UTF-8
+encoding//src/com/jdbc/frontEnd/OgrenciDonemKaydiFE.java=UTF-8
+encoding//src/com/jdbc/frontEnd/OgrenciEkleFE.java=UTF-8
+encoding//src/com/jdbc/frontEnd/OgretmenEkleFE.java=UTF-8
+encoding//src/com/jdbc/types/OGRETMEN.java=UTF-8
